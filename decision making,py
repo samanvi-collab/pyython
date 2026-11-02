@@ -1,0 +1,8 @@
+signal=input("what's the colour of the signal")
+
+if signal=="yellow":
+ print("stop")
+elif signal=="red":
+ print("ready")
+else:
+ print("go")
